@@ -1,0 +1,22 @@
+{
+    "name": "webino/ZF1",
+    "description": "Zend Framework 1.12.1 - lightweight & de-included",
+    "type": "library",
+    "keywords": [
+        "framework", "zf1"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "license": "BSD-3-Clause",
+    "include-path": ["src/"],
+    "autoload": {
+        "psr-0": {
+            "Zend": "src/"
+        },
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
