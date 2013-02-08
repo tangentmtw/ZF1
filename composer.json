@@ -1,6 +1,6 @@
 {
-    "name": "webino/zf1",
-    "description": "Zend Framework 1.12.1 - lightweight & de-included",
+    "name": "tangentmtw/zf1",
+    "description": "Zend Framework 1.12.1 - lightweight & de-included. Forked from webino",
     "type": "library",
     "keywords": [
         "framework", "zf1"
